@@ -1,0 +1,4 @@
+function primeiraAray(array){
+let novoArray = [...array]
+return novoArray;
+// como fazer copia da array
